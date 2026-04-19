@@ -44,7 +44,7 @@ function restoreState(state) {
 }
 
 window.addEventListener('load', (event) => {
-
+    GlobalModeTabButtons[0].click();
 });
 
 
