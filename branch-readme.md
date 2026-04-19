@@ -1,17 +1,16 @@
 # CS 561 Lab 3: Branch `<<BRANCH NAME>>`
 
 ## Branch Author
-Author Name (GitHub ID)
+Kevin Tran (Nikomixo)
 
 ## Summary of Work Done in this Branch
-Insert a summary of the work done in this branch. This should include a description the new feature(s) added and any bugs fixed.
+Implementing modeActions.js
 
 ## Commits
 
 | Commit ID | Commit Message | # Lines Changed
 | --------- | ----------- | ---------------
-| 1234567 | Added new feature to calculate speed score | 50
-| 2345678 | Fixed bug in speed score calculation | 20
+
 
 ### Total Commits Made in this Branch: xx
 
