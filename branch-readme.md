@@ -10,9 +10,15 @@ Implementing modeActions.js
 
 | Commit ID | Commit Message | # Lines Changed
 | --------- | ----------- | ---------------
+| c97541a | Initial modeActions.js with function descriptions and prototypes. Added modeActions.js to index.html | +75 -7 |
+| e5911da | Implemented Floating Action Button CLICK handler | +27 -1 |
+| 6653803 | Implemented Dialog Box Action Button CLICK handler | +21 -1 |
+| 2112df9 | Implemented Dialog Box Cancel Button CLICK handler | +21 -0 |
+| 7d9e374 | Implemented keyDownDialogFocused | +23 -1 |
 
-
-### Total Commits Made in this Branch: xx
+### Total Commits Made in this Branch: 5
+** Not including readme commits
+** Made a mistake and copy pasted some code from the wrong document. If we include the commits including the code and fixing it, there are 9.
 
 ### Merge Conflict Description (Delete if not applicable)
 Example: In this branch, I encountered a merge conflict when merging the `feature/new-feature` branch into the `main` branch. The conflict occurred in the `speed_score.js` file on line 42. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3456789`.
