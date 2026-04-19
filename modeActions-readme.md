@@ -20,11 +20,8 @@ Implementing modeActions.js
 ** Not including readme commits
 ** Made a mistake and copy pasted some code from the wrong document. If we include the commits including the code and fixing it, there are 9.
 
-### Merge Conflict Description (Delete if not applicable)
-Example: In this branch, I encountered a merge conflict when merging the `feature/new-feature` branch into the `main` branch. The conflict occurred in the `speed_score.js` file on line 42. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3456789`.
+### Rebase Description 
+In this branch, I rebased `main` into `feature/modeActions` prior to merging. There were no conflicts between main and my branch.
 
-### Rebase Description (Delete if not applicable)
-Example: In this branch, I rebased the `feature/new-feature` branch onto the `main` branch. The commit ID for this rebase is `4567890`. I resolved any conflicts that arose during the rebase process by modifying the code in the `speed_score.js` file to work with the changes made in the `main` branch.
-
-### Cherry Pick Description (Delete if not applicable)
+### Cherry Pick Description 
 In this branch, I cherry-picked the commit `c97541a1ae196c21cb4ddc1850d2b1afd25a8752` from the `feature/modeActions` branch to the `main` branch. This commit is simply adding modeActions.js with the various function comments and headers. It also imports the script file from `index.html`
