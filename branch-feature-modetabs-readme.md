@@ -76,8 +76,10 @@ Date:   Sun Apr 19 11:10:07 2026 -0700
 
 ### Total Commits Made in this Branch: 11
 
-### Merge Conflict Description (Delete if not applicable)
-Example: In this branch, I encountered a merge conflict when merging the `feature/new-feature` branch into the `main` branch. The conflict occurred in the `speed_score.js` file on line 42. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3456789`.
+### Merge Conflict Description
+![Gthub screenshot displaying Shivani Merge Conflict When merging to main](Shivani_Merge_Conflict.png)
+
+In this branch, I encountered a merge conflict when merging the `feature/mode-tabs` branch into the `main` branch. The conflict occurred in the `branch-feature-modetabs-readme.md` file on lines 11-36, 45, 55, 66 and 86-98. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3456789`.
 
 ### Rebase Description 
 In this branch, I rebased the `feature/mode-tabs` branch onto the `main` branch. The commit ID for this rebase is `a0ade2`. This is because the main was ahead of my commit HEAD and I rebased to get to the latest commit.
