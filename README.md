@@ -16,7 +16,7 @@
 | --------- | ----------- | --------------- | ----------------- |
 | Nikomixo | 41 | 900 | 21.95 |
 | Jackson Pope | 32 | 432 | 13.50 |
-| Cassan | 31 | 543 | 17.52 |
+| Huanqi Bao | 31 | 543 | 17.52 |
 | Shivani Pushparajan | 24 | 567 | 23.63 |
 | Name 5 | 0 | 0 | 0 |
 | **Totals** | **128** | **2,442** | **19.08** |
@@ -26,7 +26,7 @@
 | --------- | ----------- | --------------- |
 | Nikomixo | 1 | `feature/buddies` |
 | Jackson Pope | 1 | `feature/rounds` |
-| Cassan | 2 | `feature/activity_feed`, `feature/sideMenu` |
+| Huanqi Bao | 2 | `feature/activity_feed`, `feature/sideMenu` |
 | Shivani Pushparajan | 2 | `feature/mode-tabs`, `feature/courses` |
 | Name 5 | 0 | N/A |
 
@@ -35,7 +35,7 @@
 | --------- | ----------- | --------------- |
 | Nikomixo | 1 | `feature/modeActions` |
 | Jackson Pope | 2 | `feature/rounds`, `feature/window` |
-| Cassan | 3 | `feature/activity_feed`, `feature/sideMenu` |
+| Huanqi Bao | 3 | `feature/activity_feed`, `feature/sideMenu` |
 | Shivani Pushparajan | 2 | `feature/courses`, `feature/mode-tabs` |
 | Name 5 | 0 | N/A |
 
@@ -44,6 +44,6 @@
 | --------- | ----------- | --------------- |
 | Nikomixo | 1 | `feature/modeActions` |
 | Jackson Pope | 1 | `feature/window` |
-| Cassan | 1 | `feature/sideMenu` |
+| Huanqi Bao | 1 | `feature/sideMenu` |
 | Shivani Pushparajan | 2 | `feature/mode-tabs` |
 | Name 5 | 0 | N/A |
