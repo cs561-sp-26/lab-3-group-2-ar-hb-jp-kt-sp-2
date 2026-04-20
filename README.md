@@ -15,7 +15,7 @@
 | Name | # Commits | # Lines Changed | Avg. Lines/Commit
 | --------- | ----------- | ---------|----
 | Name 1 | 12 | 50 | 4.2
-| Huanqi Bao | 12 | 237  | 14.3
+| Huanqi Bao | 12 | 237  | 19.75
 | Name 3 | 5 | 10 | 2
 | Name 4 | 3 | 5 | 1.67
 | Name 5 | 2 | 2  | 1
