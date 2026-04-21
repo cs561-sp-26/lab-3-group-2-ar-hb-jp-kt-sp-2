@@ -21,7 +21,7 @@ Implementing modeActions.js
 ** Made a mistake and copy pasted some code from the wrong document. If we include the commits including the code and fixing it, there are 9.
 
 ### Rebase Description 
-In this branch, I rebased `main` into `feature/modeActions` prior to merging. There were no conflicts between main and my branch.
+In this branch, I rebased `main` into `feature/modeActions` prior to merging. There were no conflicts between main and my branch. I did have trouble with the first attempt that duplicated the commits I originally made in the history, which I reverted with `git reflog`. Unfortunately it seems like this kept the commits on the remote branch, so the history shows twice the commits I actually had made.
 
 ### Cherry Pick Description 
 In this branch, I cherry-picked the commit `c97541a1ae196c21cb4ddc1850d2b1afd25a8752` from the `feature/modeActions` branch to the `main` branch. This commit is simply adding modeActions.js with the various function comments and headers. It also imports the script file from `index.html`
