@@ -13,10 +13,11 @@ Implementing buddies tabs
 | 3627fdd | Added buddy mode tab page | +14 -0 |
 | 1d23270 | Added find buddies | +18 -1|
 | e17b8fd | Added buddies to mode tab variables | +9 -0 |
+| 6b33b1e | Fixed tabbing | +29 -30
 | 854a953 | Merged buddies into main branch | +91 -28 |
 
 
-### Total Commits Made in this Branch: 4
+### Total Commits Made in this Branch: 6
 
 # Merge conflict description
 
